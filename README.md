@@ -1,3 +1,11 @@
+Screenshots
+
+![Screenshot (4)](https://github.com/ddeshav222/e-commerce-reactjs/assets/98301962/9b2bc881-d11b-48de-91b9-0458338df9fa)
+![Screenshot (6)](https://github.com/ddeshav222/e-commerce-reactjs/assets/98301962/b99aa735-31fd-4035-844c-1ee7479f4614)
+![Screenshot (5)](https://github.com/ddeshav222/e-commerce-reactjs/assets/98301962/a3750948-d3f3-4f8f-8464-5c101ed35e43)
+
+
+<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
